@@ -52,4 +52,6 @@ Link: https://labs.play-with-docker.com/ https://www.docker.com/play-with-docker
 Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
 
 
+### We have been using CLI(command line interface) so far, Is it possible to work with GUI based apps and somehow connect docker to X-server? something like qt-based apps or gtk based apps development
+
 ## Reference
