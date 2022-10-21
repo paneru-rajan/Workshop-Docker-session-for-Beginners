@@ -35,7 +35,7 @@ Why
 2. Responsive deployment and scaling
 3. Running more workloads on the same hardware
 
-> Overview is from the official site: https://docs.docker.com/get-started/overview/
+---
 
 ### Install / Start
 
@@ -45,29 +45,41 @@ Install Docker Desktop on Windows: https://docs.docker.com/desktop/install/windo
 
 Install Docker Desktop on Linux: https://docs.docker.com/desktop/install/linux-install/
 
+---
+
 ### Containers
 
 A container is a runnable instance of an image.
 ![Container](assets/container.jpg)
+
+---
 
 ### Docker Image
 
 An image is a read-only template with instructions for creating a Docker container.
 ![Images and Containers](assets/image_and_container.jpg)
 
+---
+
 ### Docker Compose
 
 Compose is a tool for defining and running multi-container Docker applications.
 ![Docker Compose](assets/docker_compose.jpg)
+
+---
 
 ### Volumes
 
 ![Volumes](assets/volumes.jpg)
 ![Volumes](assets/why_volumes.jpg)
 
+---
+
 ### Vocabulary
 
 ![Vocabulary](assets/vocabulary.jpg)
+
+---
 
 ### Commands
 
